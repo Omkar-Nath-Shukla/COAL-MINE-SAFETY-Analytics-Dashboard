@@ -28,25 +28,27 @@ The repository README references four dashboard screenshots exported from the fi
 
 After placing images in the folder the markdown below will display them. If you prefer different filenames, update the paths accordingly.
 
-Executive Summary
------------------
-![Executive Summary](<img width="1073" height="602" alt="Screenshot 2026-07-18 160057" src="https://github.com/user-attachments/assets/ff0212e1-bf5e-466f-833b-bf234f83de81" />
-)
+## Executive Summary
 
-Company Benchmark
------------------
-![Company Benchmark](<img width="1073" height="606" alt="Screenshot 2026-07-18 160158" src="https://github.com/user-attachments/assets/2b8ffed5-87d3-4141-af0b-333621b3f2f9" />
-)
+![Executive Summary](https://github.com/user-attachments/assets/ff0212e1-bf5e-466f-833b-bf234f83de81)
 
-Safety Risk & Enforcement
--------------------------
-![Safety & Enforcement](<img width="1073" height="606" alt="Screenshot 2026-07-18 160132" src="https://github.com/user-attachments/assets/6d5d2566-a2af-4d1c-9b57-a76eb90d8a9c" />
-)
+---
 
-Overview Dashboard
-------------------
-![Overview](<img width="1073" height="602" alt="Screenshot 2026-07-18 160057" src="https://github.com/user-attachments/assets/e793e2a7-3784-4982-b126-09c05daabe6b" />
-)
+## Company Benchmark
+
+![Company Benchmark](https://github.com/user-attachments/assets/2b8ffed5-87d3-4141-af0b-333621b3f2f9)
+
+---
+
+## Safety Risk & Enforcement
+
+![Safety Risk & Enforcement](https://github.com/user-attachments/assets/6d5d2566-a2af-4d1c-9b57-a76eb90d8a9c)
+
+---
+
+## Overview Dashboard
+
+![Overview Dashboard](https://github.com/user-attachments/assets/e793e2a7-3784-4982-b126-09c05daabe6b)
 
 Quick analysis summary
 ----------------------
