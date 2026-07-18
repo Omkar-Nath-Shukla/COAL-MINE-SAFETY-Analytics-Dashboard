@@ -1,0 +1,211 @@
+cause,year,accidents,persons
+Fall of Roof,2013,8,13
+Fall of Roof,2014,10,11
+Fall of Roof,2015,4,4
+Fall of Roof,2016,8,11
+Fall of Roof,2017,3,5
+Fall of Roof,2018,3,8
+Fall of Roof,2019,2,3
+Fall of Roof,2020,4,4
+Fall of Roof,2021,6,10
+Fall of Roof,2022,4,5
+Fall of Sides,2013,2,2
+Fall of Sides,2014,2,2
+Fall of Sides,2015,5,5
+Fall of Sides,2016,5,5
+Fall of Sides,2017,5,5
+Fall of Sides,2018,2,4
+Fall of Sides,2019,4,4
+Fall of Sides,2020,4,4
+Fall of Sides,2021,3,4
+Fall of Sides,2022,3,6
+Other Ground Movement,2013,2,2
+Other Ground Movement,2014,1,2
+Other Ground Movement,2015,0,0
+Other Ground Movement,2016,1,23
+Other Ground Movement,2017,0,0
+Other Ground Movement,2018,0,0
+Other Ground Movement,2019,1,4
+Other Ground Movement,2020,0,0
+Other Ground Movement,2021,1,1
+Other Ground Movement,2022,0,0
+Transportation Machinery - Winding in Shaft,2013,0,0
+Transportation Machinery - Winding in Shaft,2014,0,0
+Transportation Machinery - Winding in Shaft,2015,0,0
+Transportation Machinery - Winding in Shaft,2016,1,1
+Transportation Machinery - Winding in Shaft,2017,0,0
+Transportation Machinery - Winding in Shaft,2018,0,0
+Transportation Machinery - Winding in Shaft,2019,2,2
+Transportation Machinery - Winding in Shaft,2020,0,0
+Transportation Machinery - Winding in Shaft,2021,0,0
+Transportation Machinery - Winding in Shaft,2022,0,0
+Rope Haulage,2013,3,3
+Rope Haulage,2014,1,1
+Rope Haulage,2015,3,3
+Rope Haulage,2016,5,5
+Rope Haulage,2017,5,5
+Rope Haulage,2018,2,2
+Rope Haulage,2019,1,1
+Rope Haulage,2020,1,1
+Rope Haulage,2021,1,1
+Rope Haulage,2022,1,1
+Wheeled Trackless Transp,2013,29,29
+Wheeled Trackless Transp,2014,17,18
+Wheeled Trackless Transp,2015,16,17
+Wheeled Trackless Transp,2016,20,21
+Wheeled Trackless Transp,2017,19,19
+Wheeled Trackless Transp,2018,15,16
+Wheeled Trackless Transp,2019,12,12
+Wheeled Trackless Transp,2020,15,16
+Wheeled Trackless Transp,2021,11,14
+Wheeled Trackless Transp,2022,4,4
+Other Transp. Machinery,2013,1,1
+Other Transp. Machinery,2014,1,1
+Other Transp. Machinery,2015,0,0
+Other Transp. Machinery,2016,3,3
+Other Transp. Machinery,2017,2,2
+Other Transp. Machinery,2018,1,1
+Other Transp. Machinery,2019,4,4
+Other Transp. Machinery,2020,1,1
+Other Transp. Machinery,2021,2,2
+Other Transp. Machinery,2022,0,0
+Transportation Machinery - Other than Winding,2013,12,12
+Transportation Machinery - Other than Winding,2014,15,15
+Transportation Machinery - Other than Winding,2015,11,11
+Transportation Machinery - Other than Winding,2016,9,9
+Transportation Machinery - Other than Winding,2017,10,12
+Transportation Machinery - Other than Winding,2018,10,13
+Transportation Machinery - Other than Winding,2019,8,8
+Transportation Machinery - Other than Winding,2020,7,7
+Transportation Machinery - Other than Winding,2021,4,4
+Transportation Machinery - Other than Winding,2022,3,3
+Explosives,2013,0,0
+Explosives,2014,2,2
+Explosives,2015,0,0
+Explosives,2016,0,0
+Explosives,2017,2,2
+Explosives,2018,2,2
+Explosives,2019,1,1
+Explosives,2020,3,6
+Explosives,2021,2,2
+Explosives,2022,0,0
+Electricity,2013,7,7
+Electricity,2014,2,2
+Electricity,2015,4,4
+Electricity,2016,2,2
+Electricity,2017,2,2
+Electricity,2018,5,5
+Electricity,2019,2,2
+Electricity,2020,1,1
+Electricity,2021,3,3
+Electricity,2022,1,1
+"Gas, Dust & Other Combustible Material",2013,0,0
+"Gas, Dust & Other Combustible Material",2014,1,1
+"Gas, Dust & Other Combustible Material",2015,0,0
+"Gas, Dust & Other Combustible Material",2016,4,5
+"Gas, Dust & Other Combustible Material",2017,1,1
+"Gas, Dust & Other Combustible Material",2018,2,4
+"Gas, Dust & Other Combustible Material",2019,0,0
+"Gas, Dust & Other Combustible Material",2020,0,0
+"Gas, Dust & Other Combustible Material",2021,0,0
+"Gas, Dust & Other Combustible Material",2022,2,2
+Fall of person,2013,8,8
+Fall of person,2014,2,2
+Fall of person,2015,4,4
+Fall of person,2016,4,4
+Fall of person,2017,2,2
+Fall of person,2018,3,3
+Fall of person,2019,5,5
+Fall of person,2020,5,5
+Fall of person,2021,4,4
+Fall of person,2022,3,3
+Fall of Object,2013,3,3
+Fall of Object,2014,2,2
+Fall of Object,2015,2,2
+Fall of Object,2016,2,2
+Fall of Object,2017,2,2
+Fall of Object,2018,0,0
+Fall of Object,2019,3,3
+Fall of Object,2020,1,1
+Fall of Object,2021,2,2
+Fall of Object,2022,2,2
+Other falls,2013,2,2
+Other falls,2014,0,0
+Other falls,2015,0,0
+Other falls,2016,0,0
+Other falls,2017,0,0
+Other falls,2018,0,0
+Other falls,2019,0,0
+Other falls,2020,0,0
+Other falls,2021,0,0
+Other falls,2022,0,0
+Irruption of Water,2013,0,0
+Irruption of Water,2014,0,0
+Irruption of Water,2015,1,1
+Irruption of Water,2016,0,0
+Irruption of Water,2017,1,2
+Irruption of Water,2018,1,1
+Irruption of Water,2019,0,0
+Irruption of Water,2020,1,2
+Irruption of Water,2021,0,0
+Irruption of Water,2022,0,0
+Flying Pieces,2013,0,0
+Flying Pieces,2014,0,0
+Flying Pieces,2015,0,0
+Flying Pieces,2016,0,0
+Flying Pieces,2017,0,0
+Flying Pieces,2018,0,0
+Flying Pieces,2019,0,0
+Flying Pieces,2020,0,0
+Flying Pieces,2021,0,0
+Flying Pieces,2022,0,0
+Miscellaneous,2013,0,0
+Miscellaneous,2014,3,3
+Miscellaneous,2015,4,4
+Miscellaneous,2016,3,3
+Miscellaneous,2017,2,2
+Miscellaneous,2018,3,3
+Miscellaneous,2019,6,7
+Miscellaneous,2020,5,5
+Miscellaneous,2021,4,4
+Miscellaneous,2022,1,1
+TOTAL (All Causes),2013,77,82
+TOTAL (All Causes),2014,59,62
+TOTAL (All Causes),2015,54,55
+TOTAL (All Causes),2016,67,94
+TOTAL (All Causes),2017,56,61
+TOTAL (All Causes),2018,49,62
+TOTAL (All Causes),2019,51,56
+TOTAL (All Causes),2020,48,53
+TOTAL (All Causes),2021,43,51
+TOTAL (All Causes),2022,24,28
+BELOW GROUND,2013,19,24
+BELOW GROUND,2014,20,21
+BELOW GROUND,2015,21,21
+BELOW GROUND,2016,26,29
+BELOW GROUND,2017,18,21
+BELOW GROUND,2018,12,19
+BELOW GROUND,2019,19,21
+BELOW GROUND,2020,15,16
+BELOW GROUND,2021,16,21
+BELOW GROUND,2022,9,12
+OPENCAST,2013,40,40
+OPENCAST,2014,31,33
+OPENCAST,2015,25,26
+OPENCAST,2016,30,52
+OPENCAST,2017,29,29
+OPENCAST,2018,29,32
+OPENCAST,2019,22,25
+OPENCAST,2020,24,28
+OPENCAST,2021,21,23
+OPENCAST,2022,11,12
+ABOVE GROUND,2013,18,18
+ABOVE GROUND,2014,8,8
+ABOVE GROUND,2015,8,8
+ABOVE GROUND,2016,11,13
+ABOVE GROUND,2017,9,11
+ABOVE GROUND,2018,8,11
+ABOVE GROUND,2019,10,10
+ABOVE GROUND,2020,9,9
+ABOVE GROUND,2021,6,7
+ABOVE GROUND,2022,4,4
