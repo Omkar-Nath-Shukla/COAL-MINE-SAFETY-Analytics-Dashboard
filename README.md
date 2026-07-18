@@ -30,7 +30,7 @@ After placing images in the folder the markdown below will display them. If you 
 
 ## Executive Summary
 
-![Executive Summary](https://github.com/user-attachments/assets/ff0212e1-bf5e-466f-833b-bf234f83de81)
+<img width="1073" alt="Executive Summary Dashboard" src="https://github.com/user-attachments/assets/15330bcf-102b-4130-b4c6-608589e1de3a" />
 
 ---
 
