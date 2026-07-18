@@ -1,0 +1,8 @@
+index,company,total_fatal_accidents,total_serious_accidents,total_deaths,total_seriously_injured
+6,ECL,49,72,75,85
+5,SECL,65,113,72,117
+4,BCCL,35,38,40,50
+3,WCL,29,72,35,76
+2,MCL,29,19,32,21
+1,CCL,27,22,31,30
+0,NCL,21,44,21,50
